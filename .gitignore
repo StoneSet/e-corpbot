@@ -1,0 +1,8 @@
+.git/
+start.bat
+build.bat
+*.db
+.vscode/
+.vscode
+*.db
+package-lock.json
