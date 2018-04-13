@@ -10,14 +10,14 @@ db.defaults({xp: []}).write()
 var bot = new Discord.Client();  //connection
 var prefix = ("/");  // prefix
 
-
+bot.login('NDMyODQzMjc1ODkyNjg2ODQ5.DazQVw.iCT1P6r0UT9lSxfzrw4YDbt792I')
 //connection bot (return log important!) + set game
 
 bot.on('ready', () => {
     bot.user.setPresence({ game: { name: 'être en développement', type: 0}});
     console.log("Le Bot est Connecté !");
 });
-bot.login(process.env.TOKEN)
+
 
 //add role + bienvenue
 
