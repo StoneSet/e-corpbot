@@ -1,0 +1,25 @@
+{
+  "name": "e-corpbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneSet/e-corpbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StoneSet/e-corpbot/issues"
+  },
+  "homepage": "https://github.com/StoneSet/e-corpbot#readme"
+}
