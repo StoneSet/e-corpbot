@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "Ecorpbot",
   "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "engines": {
+    "node": "8.x",
+    "npm": "*"
+},
+   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
-  },
+},
   "author": "ZeSlayer_StoneSet",
   "license": "ISC",
   "dependencies": {
