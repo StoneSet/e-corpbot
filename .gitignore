@@ -6,3 +6,4 @@ build.bat
 .vscode
 *.db
 node_modules
+.env
